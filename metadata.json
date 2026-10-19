@@ -1,0 +1,6 @@
+{
+  "name": "BusinessPilot",
+  "description": "Multi-tenant SaaS business management and team productivity platform for employees, attendance, leaves, tasks, follow-ups, and daily work reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
